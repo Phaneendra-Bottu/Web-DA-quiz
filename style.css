@@ -7,7 +7,7 @@
 }
 
 body{
-    background: #ffc16b;
+    background: #FFBB5C;
 }
 
 ::selection{
@@ -16,7 +16,6 @@ body{
 }
 
 .start_btn,
-.info_box,
 .quiz_box,
 .result_box{
     position: absolute;
@@ -28,7 +27,6 @@ body{
 }
 
 
-.info_box.activeInfo,
 .quiz_box.activeQuiz,
 .result_box.activeResult{
     opacity: 1;
@@ -49,17 +47,9 @@ body{
     cursor: pointer;
 }
 
-.info_box{
-    width: 540px;
-    background: #fff;
-    border-radius: 5px;
-    transform: translate(-50%, -50%) scale(0.9);
-    opacity: 0;
-    pointer-events: none;
-    transition: all 0.3s ease;
-}
 
-.info_box .info-title{
+
+.info-title{
     height: 60px;
     width: 100%;
     border-bottom: 1px solid lightgrey;
@@ -71,20 +61,7 @@ body{
     font-weight: 600;
 }
 
-.info_box .info-list{
-    padding: 15px 30px;
-}
-
-.info_box .info-list .info{
-    margin: 5px 0;
-    font-size: 17px;
-}
-
-.info_box .info-list .info span{
-    font-weight: 600;
-    color: red;
-}
-.info_box .buttons{
+.buttons{
     height: 60px;
     display: flex;
     align-items: center;
@@ -93,7 +70,7 @@ body{
     border-top: 1px solid lightgrey;
 }
 
-.info_box .buttons button{
+buttons button{
     margin: 0 5px;
     height: 40px;
     width: 100px;
