@@ -13,8 +13,8 @@ let questions = [
 },
   {
   numb: 2,
-  question: "Guess this Movie: 👨🏾🌊🚣🏽‍♂️🐅",
-  answer: "Cascading Style Sheet",
+  question: "Guess this Movie: 👨🏾 🌊 🚣🏽‍♂️ 🐅",
+  answer: "Life of Pie",
   options: [
     "Noah",
     "Life of Pie",
@@ -24,35 +24,35 @@ let questions = [
 },
   {
   numb: 3,
-  question: "Guess this Movie: ",
-  answer: "Hypertext Preprocessor",
+  question: "Guess this Movie: 🐍 🦍 🐅 👦🏽 🌳 📖",
+  answer: "Jungle Book",
   options: [
-    "Hypertext Preprocessor",
-    "Hypertext Programming",
-    "Hypertext Preprogramming",
-    "Hometext Preprocessor"
+    "Tiger Nageshwar Rao",
+    "Jumanji",
+    "Jungle Book",
+    "NagaValli"
   ]
 },
   {
   numb: 4,
-  question: "Guess this Movie: ",
-  answer: "Structured Query Language",
+  question: "Guess this Movie: 🔎 🐟 ",
+  answer: "Finding Nemo",
   options: [
-    "Stylish Question Language",
-    "Stylesheet Query Language",
-    "Statement Question Language",
-    "Structured Query Language"
+    "Finding Nemo",
+    "The Search",
+    "Aqua Man",
+    "Life of Fish"
   ]
 },
   {
   numb: 5,
-  question: "Guess this Movie: ",
-  answer: "eXtensible Markup Language",
+  question: "Guess this Movie: 🦁 👑 🐺 🌳",
+  answer: "Lion King",
   options: [
-    "eXtensible Markup Language",
-    "eXecutable Multiple Language",
-    "eXTra Multi-Program Language",
-    "eXamine Multiple Language"
+    "Simha",
+    "Lion King",
+    "The Forest",
+    "Varisu"
   ]
 },
 
