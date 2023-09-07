@@ -2,7 +2,7 @@
 let questions = [
   {
   numb: 1,
-  question: "Guess this Movie: 🚢👩🏻‍❤️‍👨🏻🌊💥💀",
+  question: "Guess this Movie: 🚢 👩🏻‍❤️‍👨🏻 🌊 💥 💀",
   answer: "Titanic",
   options: [
     "Veera Shima Reddy",
@@ -13,18 +13,18 @@ let questions = [
 },
   {
   numb: 2,
-  question: "What does CSS stand for?",
+  question: "Guess this Movie: 👨🏾🌊🚣🏽‍♂️🐅",
   answer: "Cascading Style Sheet",
   options: [
-    "Common Style Sheet",
-    "Colorful Style Sheet",
-    "Computer Style Sheet",
-    "Cascading Style Sheet"
+    "Noah",
+    "Life of Pie",
+    "RRR",
+    "Liger"
   ]
 },
   {
   numb: 3,
-  question: "What does PHP stand for?",
+  question: "Guess this Movie: ",
   answer: "Hypertext Preprocessor",
   options: [
     "Hypertext Preprocessor",
@@ -35,7 +35,7 @@ let questions = [
 },
   {
   numb: 4,
-  question: "What does SQL stand for?",
+  question: "Guess this Movie: ",
   answer: "Structured Query Language",
   options: [
     "Stylish Question Language",
@@ -46,7 +46,7 @@ let questions = [
 },
   {
   numb: 5,
-  question: "What does XML stand for?",
+  question: "Guess this Movie: ",
   answer: "eXtensible Markup Language",
   options: [
     "eXtensible Markup Language",
